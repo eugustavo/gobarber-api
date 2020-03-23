@@ -7,9 +7,23 @@
 <h4 align="center">
   API desenvolvida para aplicativo de agendamento de barbeiro GoBarber, que possibilita o usuário agendar o horário com seu barbeiro favorito e mostrar para o barbeiro sua agenda para o dia.
 </h4>
+
 <p align="center">
-  <img alt="GitHub" src="https://img.shields.io/github/license/eugustavo/gobarber-api.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eugustavo/gobarber-api.svg">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eugustavo/gobarber-api.svg">
+
+  <a href="https://www.codacy.com/app/eugustavo/gobarber-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=eugustavo/gobarber-api&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/e4cc1482460841bdaa99c2e75e01f0bc.svg">
+  </a>
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/eugustavo/gobarber-api.svg">
+  
+  <a href="https://github.com/eugustavo/gobarber-api/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eugustavo/gobarber-api.svg">
+  </a>
 </p>
+
 
 ## :books: Tecnologias
 
